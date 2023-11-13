@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\gabri\source\repos\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Users\gabri\source\repos\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.Form1.resources
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Users\gabri\source\repos\parcial2\parcial2\obj\Debug\parcial2.pdb
